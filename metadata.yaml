@@ -1,0 +1,31 @@
+_repo: Dr.-Scudder-s-Tales-for-Little-Readers-About-the-Heathen._13539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scudder, John
+    birthdate: 1798
+    deathdate: 1855
+    gutenberg_agent_id: '5120'
+    url: http://www.gutenberg.org/2009/agents/5120
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2004-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity and other religions -- Hinduism'
+- !lcsh 'India -- Religious life and customs'
+- !lcsh 'Sunday school literature'
+- !lcc 'BR'
+- !lcsh 'Hinduism -- Relations -- Christianity'
+- !lcsh 'Missions'
+title: Dr. Scudder's Tales for Little Readers, About the Heathen.
+url: http://www.gutenberg.org/ebooks/13539
